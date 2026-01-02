@@ -1,1 +1,1440 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-PG3401\, Programmering i 
+ C for Linux\, 202...\, +11 objekt (12)-20260
+ 101
+X-WR-CALDESC:Date limit 15.12.2025 - 05.01.2031
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20260105T111500Z
+DTEND:20260105T130000Z
+UID:211871--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211871
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260105T131500Z
+DTEND:20260105T150000Z
+UID:211888--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211888
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T111500Z
+DTEND:20260108T130000Z
+UID:222144--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222144
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T131500Z
+DTEND:20260108T150000Z
+UID:222145--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222145
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T071500Z
+DTEND:20260109T090000Z
+UID:222002--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222002
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T091500Z
+DTEND:20260109T110000Z
+UID:222016--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222016
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T111500Z
+DTEND:20260112T130000Z
+UID:211872--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T131500Z
+DTEND:20260112T150000Z
+UID:211889--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211889
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T071500Z
+DTEND:20260114T090000Z
+UID:221028--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221028
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T091500Z
+DTEND:20260114T110000Z
+UID:221060--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221060
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T111500Z
+DTEND:20260115T130000Z
+UID:222165--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222165
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T131500Z
+DTEND:20260115T150000Z
+UID:222167--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222167
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T071500Z
+DTEND:20260116T090000Z
+UID:222003--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222003
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T091500Z
+DTEND:20260116T110000Z
+UID:222031--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222031
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T111500Z
+DTEND:20260119T130000Z
+UID:211873--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211873
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T131500Z
+DTEND:20260119T150000Z
+UID:211890--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211890
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T071500Z
+DTEND:20260121T090000Z
+UID:221029--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221029
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T091500Z
+DTEND:20260121T110000Z
+UID:221061--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221061
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T111500Z
+DTEND:20260122T130000Z
+UID:222166--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222166
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T131500Z
+DTEND:20260122T150000Z
+UID:222169--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222169
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T071500Z
+DTEND:20260123T090000Z
+UID:222004--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222004
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T091500Z
+DTEND:20260123T110000Z
+UID:222017--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222017
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T111500Z
+DTEND:20260126T130000Z
+UID:211874--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211874
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T131500Z
+DTEND:20260126T150000Z
+UID:211891--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211891
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T071500Z
+DTEND:20260128T090000Z
+UID:221032--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221032
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T091500Z
+DTEND:20260128T110000Z
+UID:221064--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T111500Z
+DTEND:20260129T130000Z
+UID:222172--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222172
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T131500Z
+DTEND:20260129T150000Z
+UID:222173--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222173
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T071500Z
+DTEND:20260130T090000Z
+UID:222005--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T091500Z
+DTEND:20260130T110000Z
+UID:222019--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222019
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T111500Z
+DTEND:20260202T130000Z
+UID:211875--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211875
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T131500Z
+DTEND:20260202T150000Z
+UID:211892--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211892
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T071500Z
+DTEND:20260204T090000Z
+UID:221033--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221033
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T091500Z
+DTEND:20260204T110000Z
+UID:221065--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221065
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T111500Z
+DTEND:20260205T130000Z
+UID:222174--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222174
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T131500Z
+DTEND:20260205T150000Z
+UID:222175--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222175
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T071500Z
+DTEND:20260206T090000Z
+UID:222006--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222006
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T091500Z
+DTEND:20260206T110000Z
+UID:222020--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222020
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T111500Z
+DTEND:20260209T130000Z
+UID:211876--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211876
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T131500Z
+DTEND:20260209T150000Z
+UID:211893--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211893
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T071500Z
+DTEND:20260211T090000Z
+UID:221034--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221034
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T091500Z
+DTEND:20260211T110000Z
+UID:221067--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221067
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T111500Z
+DTEND:20260212T130000Z
+UID:222176--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222176
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T131500Z
+DTEND:20260212T150000Z
+UID:222177--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222177
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T071500Z
+DTEND:20260213T090000Z
+UID:222007--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222007
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T091500Z
+DTEND:20260213T110000Z
+UID:222021--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222021
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260216
+UID:204005--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Konteuke
+LOCATION:
+DESCRIPTION:07:00 - 19:00\nID 204005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260217
+UID:204006--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Konteuke
+LOCATION:
+DESCRIPTION:07:00 - 19:00\nID 204006
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260218
+UID:204007--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Konteuke
+LOCATION:
+DESCRIPTION:07:00 - 19:00\nID 204007
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260219
+UID:204008--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Konteuke
+LOCATION:
+DESCRIPTION:07:00 - 19:00\nID 204008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260220
+UID:204009--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Konteuke
+LOCATION:
+DESCRIPTION:07:00 - 19:00\nID 204009
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T111500Z
+DTEND:20260223T130000Z
+UID:211877--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211877
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T131500Z
+DTEND:20260223T150000Z
+UID:211894--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211894
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T071500Z
+DTEND:20260225T090000Z
+UID:221035--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221035
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T091500Z
+DTEND:20260225T110000Z
+UID:221068--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221068
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T111500Z
+DTEND:20260226T130000Z
+UID:222178--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222178
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T131500Z
+DTEND:20260226T150000Z
+UID:222179--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222179
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T071500Z
+DTEND:20260227T090000Z
+UID:222008--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T091500Z
+DTEND:20260227T110000Z
+UID:222022--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222022
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T111500Z
+DTEND:20260302T130000Z
+UID:211878--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211878
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T131500Z
+DTEND:20260302T150000Z
+UID:211895--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211895
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T071500Z
+DTEND:20260304T090000Z
+UID:221036--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221036
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T091500Z
+DTEND:20260304T110000Z
+UID:221069--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221069
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T111500Z
+DTEND:20260305T130000Z
+UID:222180--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222180
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T131500Z
+DTEND:20260305T150000Z
+UID:222181--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222181
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T071500Z
+DTEND:20260306T090000Z
+UID:222009--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222009
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T091500Z
+DTEND:20260306T110000Z
+UID:222023--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T111500Z
+DTEND:20260309T130000Z
+UID:211879--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211879
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T131500Z
+DTEND:20260309T150000Z
+UID:211896--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211896
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T071500Z
+DTEND:20260311T090000Z
+UID:221037--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221037
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260311
+UID:231029--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Karrieredag Bergen
+LOCATION:
+DESCRIPTION:09:00 - 15:00\nID 231029
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T091500Z
+DTEND:20260311T110000Z
+UID:221080--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221080
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T111500Z
+DTEND:20260312T130000Z
+UID:222182--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222182
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T131500Z
+DTEND:20260312T150000Z
+UID:222183--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222183
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T071500Z
+DTEND:20260313T090000Z
+UID:222579--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222579
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T091500Z
+DTEND:20260313T110000Z
+UID:222580--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222580
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T111500Z
+DTEND:20260316T130000Z
+UID:211880--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211880
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T131500Z
+DTEND:20260316T150000Z
+UID:211897--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211897
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T071500Z
+DTEND:20260318T090000Z
+UID:221038--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221038
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T091500Z
+DTEND:20260318T110000Z
+UID:221077--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221077
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T111500Z
+DTEND:20260319T130000Z
+UID:222185--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222185
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T131500Z
+DTEND:20260319T150000Z
+UID:222186--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222186
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T071500Z
+DTEND:20260320T090000Z
+UID:222010--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222010
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T091500Z
+DTEND:20260320T110000Z
+UID:222024--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T111500Z
+DTEND:20260323T130000Z
+UID:211903--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211903
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T131500Z
+DTEND:20260323T150000Z
+UID:211898--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211898
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260325
+UID:204000--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Karrieredager Oslo
+LOCATION:
+DESCRIPTION:07:00 - 17:00\nID 204000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T111500Z
+DTEND:20260326T130000Z
+UID:222187--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222187
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T131500Z
+DTEND:20260326T150000Z
+UID:222188--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222188
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T071500Z
+DTEND:20260327T090000Z
+UID:222011--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 222011
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T091500Z
+DTEND:20260327T110000Z
+UID:222025--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Jefferson S
+ eide Molléri \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\
+ , 0153 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\,
+  0153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 222025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260402
+UID:244--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Skjærtorsdag
+LOCATION:
+DESCRIPTION:01.04.2026 22:00 - 02.04.2026 22:00\nID 244
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260403
+UID:245--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Langfredag
+LOCATION:
+DESCRIPTION:02.04.2026 22:00 - 03.04.2026 22:00\nID 245
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260404
+UID:246--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Påskeaften
+LOCATION:
+DESCRIPTION:03.04.2026 22:00 - 04.04.2026 22:00\nID 246
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260405
+UID:247--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: 1. påskedag
+LOCATION:
+DESCRIPTION:04.04.2026 22:00 - 05.04.2026 22:00\nID 247
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260406
+UID:248--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: 2. påskedag
+LOCATION:
+DESCRIPTION:05.04.2026 22:00 - 06.04.2026 22:00\nID 248
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T061500Z
+DTEND:20260408T080000Z
+UID:221039--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 221039
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T081500Z
+DTEND:20260408T100000Z
+UID:221070--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 221070
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T101500Z
+DTEND:20260409T120000Z
+UID:222189--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Rashmi
+  Gupta \nRomnavn: CU101 Auditorium. Kirkegata 24-26\, 0153 O
+ slo
+DESCRIPTION:ID 222189
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T121500Z
+DTEND:20260409T140000Z
+UID:222190--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG4200. Emnenavn: Algorithms and Data Structures
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Rashmi G
+ upta \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 0
+ 153 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26
+ \, 0153 Oslo
+DESCRIPTION:ID 222190
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T061500Z
+DTEND:20260410T080000Z
+UID:228117--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Forelesning - Oslo \nRomn
+ avn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 228117
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T081500Z
+DTEND:20260410T100000Z
+UID:228118--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: BU5300. Emnenavn: IT prosjektledelse
+LOCATION:Und.aktivitet: Øving - Oslo \nRomnavn: AU102
+  Harvard-rom. Kirkegata 24-26\, 0153 Oslo \nRomnav
+ n: AU103 Harvard-rom. Kirkegata 24-26\, 0153 Oslo 
+ \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\, 
+ 0153 Oslo
+DESCRIPTION:ID 228118
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T101500Z
+DTEND:20260413T120000Z
+UID:211882--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Bengt
+  Østby \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 
+ Oslo
+DESCRIPTION:ID 211882
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T121500Z
+DTEND:20260413T140000Z
+UID:211899--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PG3401. Emnenavn: Programmering i C for Linux
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Bengt Øs
+ tby \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153
+  Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 01
+ 53 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\
+ , 0153 Oslo
+DESCRIPTION:ID 211899
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T061500Z
+DTEND:20260415T080000Z
+UID:244612--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 244612
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T081500Z
+DTEND:20260415T100000Z
+UID:244613--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 244613
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T061500Z
+DTEND:20260422T080000Z
+UID:255519--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Forelesning - Oslo \nUnderviser: Huami
+ n Ren \nRomnavn: DU101 Auditorium. Kirkegata 23-25\, 0153 O
+ slo
+DESCRIPTION:ID 255519
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T081500Z
+DTEND:20260422T100000Z
+UID:255520--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Emnekode: PGR107. Emnenavn: Python Programming
+LOCATION:Und.aktivitet: Øving - Oslo \nUnderviser: Huamin R
+ en \nRomnavn: AU102 Harvard-rom. Kirkegata 24-26\, 0153 
+ Oslo \nRomnavn: AU103 Harvard-rom. Kirkegata 24-26\, 015
+ 3 Oslo \nRomnavn: CU102 Arbeidsområde. Kirkegata 24-26\,
+  0153 Oslo
+DESCRIPTION:ID 255520
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:249--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: 1. mai
+LOCATION:
+DESCRIPTION:30.04.2026 22:00 - 01.05.2026 22:00\nID 249
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+UID:250--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Kristi himmelfartsdag
+LOCATION:
+DESCRIPTION:13.05.2026 22:00 - 14.05.2026 22:00\nID 250
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260517
+UID:251--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Grunnlovsdagen
+LOCATION:
+DESCRIPTION:16.05.2026 22:00 - 17.05.2026 22:00\nID 251
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260523
+UID:252--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: Pinseaften
+LOCATION:
+DESCRIPTION:22.05.2026 22:00 - 23.05.2026 22:00\nID 252
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260524
+UID:253--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: 1. pinsedag
+LOCATION:
+DESCRIPTION:23.05.2026 22:00 - 24.05.2026 22:00\nID 253
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260525
+UID:254--774811969-0@timeedit.com
+DTSTAMP:20260102T015808Z
+LAST-MODIFIED:20260102T015808Z
+SUMMARY:Tittel: 2. pinsedag
+LOCATION:
+DESCRIPTION:24.05.2026 22:00 - 25.05.2026 22:00\nID 254
+END:VEVENT
+END:VCALENDAR
 
