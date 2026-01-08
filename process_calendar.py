@@ -7,10 +7,12 @@ cal = Calendar.from_ical(raw_data)
 
 for event in cal.walk("VEVENT"):
     summary = event.get("SUMMARY")
-    if "Emnekode" not in summary:
+    if not summary:
         continue
 
     summary_text = str(summary)
+    if "Emnekode" not in summary_text:
+        continue
 
     parts = summary_text.split(". ")
     code = parts[0].replace("Emnekode:", "").strip()
