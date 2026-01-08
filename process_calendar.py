@@ -16,8 +16,7 @@ for event in cal.walk("VEVENT"):
     code = parts[0].replace("Emnekode:", "").strip()
     name = parts[1].replace("Emnenavn:", "").strip()
 
-    new_summary = f"{name} ({code})"
-    print(new_summary)
+    new_summary = f"{name} ({code})2"
 
     event["SUMMARY"] = new_summary
 
@@ -25,5 +24,4 @@ raw_output = cal.to_ical()
 
 with open("processed.ics", "wb") as file:
     file.write(raw_output)
-    print("file written")
 
