@@ -16,7 +16,7 @@ for event in cal.walk("VEVENT"):
     code = parts[0].replace("Emnekode:", "").strip()
     name = parts[1].replace("Emnenavn:", "").strip()
 
-    new_summary = f"{name} ({code})2"
+    new_summary = f"{name} ({code})"
 
     event["SUMMARY"] = new_summary
 
