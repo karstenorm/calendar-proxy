@@ -11,11 +11,14 @@ for event in cal.walk("VEVENT"):
         continue
 
     summary_text = str(summary)
-    new_summary = summary_text.replace(
-        "Emnekode: ", ""
-    ).replace(
-        "Emnenavn: ", ""
-    ).replace(". ", " - ")
+
+    parts = summary_text.split(". ")
+    code = parts[0].replace("Emnekode:", "").strip()
+    name = parts[1].replace("Emnenavn:", "").strip()
+
+    new_summary = f"{name} ({code})"
+    print(new_summary)
+
     event["SUMMARY"] = new_summary
 
 raw_output = cal.to_ical()
