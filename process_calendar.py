@@ -5,13 +5,18 @@ with open("original.ics", "rb") as file:
 
 cal = Calendar.from_ical(raw_data)
 
+events_to_remove = []
+
 for event in cal.walk("VEVENT"):
     summary = event.get("SUMMARY")
     if not summary:
         continue
 
     summary_text = str(summary)
+
     if "Emnekode" not in summary_text:
+        if "Tittel" in summary_text:
+            events_to_remove.append(event)
         continue
 
     parts = summary_text.split(". ")
@@ -21,6 +26,9 @@ for event in cal.walk("VEVENT"):
     new_summary = f"{name} ({code})"
 
     event["SUMMARY"] = new_summary
+
+for event in events_to_remove:
+    cal.subcomponents.remove(event)
 
 raw_output = cal.to_ical()
 
