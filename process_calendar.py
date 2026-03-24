@@ -15,15 +15,15 @@ for event in cal.walk("VEVENT"):
     summary_text = str(summary)
 
     if "Emnekode" not in summary_text:
-        if "Tittel" in summary_text:
+        if "Tittel" in summary_text:  # remove public holidays
             events_to_remove.append(event)
         continue
 
     parts = summary_text.split(". ")
-    code = parts[0].replace("Emnekode:", "").strip()
-    name = parts[1].replace("Emnenavn:", "").strip()
+    code = parts[0].replace("Emnekode:", "").strip()  # remove "Emnekode"
+    name = parts[1].replace("Emnenavn:", "").strip()              # remove "Emnenavn"
 
-    new_summary = f"{name} ({code})"
+    new_summary = f"{name} ({code})"  # new format
 
     event["SUMMARY"] = new_summary
 
