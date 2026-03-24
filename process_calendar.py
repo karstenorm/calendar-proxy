@@ -21,7 +21,7 @@ for event in cal.walk("VEVENT"):
 
     parts = summary_text.split(". ")
     code = parts[0].replace("Emnekode:", "").strip()  # remove "Emnekode"
-    name = parts[1].replace("Emnenavn:", "").strip()              # remove "Emnenavn"
+    name = parts[1].replace("Emnenavn:", "").strip()  # remove "Emnenavn"
 
     new_summary = f"{name} ({code})"  # new format
 
