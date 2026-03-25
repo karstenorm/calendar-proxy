@@ -1,4 +1,4 @@
-name: Daily Script
+name: Daily script
 
 on:
   schedule:
@@ -13,14 +13,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Sett opp Python
+      - name: Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Installer dependencies
+      - name: Install dependencies
         run: |
           pip install -r requirements.txt
 
-      - name: Kjør script
-        run: python ditt_script.py
+      - name: Run script
+        run: python process_calendar.py
