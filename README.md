@@ -1,6 +1,6 @@
 # calendar-proxy
 
-Simple tool that reformats calendar events from ics-file to make it readable on iPhone.
+Simple tool that reformats Kristiania calendar events from ics-file to make it readable on iPhone.
 
 
 **Before:**
