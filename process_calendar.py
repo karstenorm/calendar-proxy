@@ -75,15 +75,15 @@ def combine_calendars(old, new):
     return combined
 
 
-new_cal = read_ics("new.ics")
+new_cal = read_ics("polled.ics")
 new_cal = process_calendar(new_cal)
 
-old_cal = read_ics("processed.ics")
+old_cal = read_ics("local.ics")
 
 combined_cal = combine_calendars(old_cal, new_cal)
 
 if combined_cal is not None:
-    with open("processed.ics", "wb") as f:
+    with open("local.ics", "wb") as f:
         f.write(combined_cal.to_ical())
 
 
