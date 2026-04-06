@@ -75,7 +75,7 @@ def combine_calendars(old, new):
     return combined
 
 
-new_cal = read_ics("original.ics")
+new_cal = read_ics("new.ics")
 new_cal = process_calendar(new_cal)
 
 old_cal = read_ics("processed.ics")
